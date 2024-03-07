@@ -1,6 +1,7 @@
 # updateFlow
 
 ```js
+// C:/Users/${USERNAME}/AppData/Local/BraveSoftware/Brave-Browser/User Data/Default/History
 {                                                                                                                                                  
   ext: 'sqlite',                                                                                                                                   
   mime: 'application/x-sqlite3',                                                                                                                   
