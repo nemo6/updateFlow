@@ -7,7 +7,6 @@
 # lodash
 
 https://lodash.com/docs/4.17.15#update
-
 https://lodash.com/docs/4.17.15#flow
 
 # html table
