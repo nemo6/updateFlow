@@ -1,7 +1,5 @@
 # updateFlow
 
-![](https://github.com/nemo6/updateFlow/blob/main/img/d.jpg)
-
 ![](https://github.com/nemo6/updateFlow/blob/main/img/g.jpg)
 
 # lodash
@@ -11,6 +9,8 @@ https://lodash.com/docs/4.17.15#update
 https://lodash.com/docs/4.17.15#flow
 
 # html table
+
+![](https://github.com/nemo6/updateFlow/blob/main/img/d.jpg)
 
 ![](https://github.com/nemo6/updateFlow/blob/main/img/c.jpg)
 
