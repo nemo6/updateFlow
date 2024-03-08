@@ -26,6 +26,6 @@ https://lodash.com/docs/4.17.15#flow
 }
 ```
 
-![](https://github.com/nemo6/updateFlow/blob/main/img/b.jpg)
+![](https://github.com/nemo6/updateFlow/blob/main/img/h.jpg)
 
 ![](https://github.com/nemo6/updateFlow/blob/main/img/a.jpg)
